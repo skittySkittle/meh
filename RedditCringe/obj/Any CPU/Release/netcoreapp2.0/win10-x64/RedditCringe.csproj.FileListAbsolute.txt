@@ -1,0 +1,13 @@
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.exe
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.deps.json
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.runtimeconfig.json
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.runtimeconfig.dev.json
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.dll
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.pdb
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.csproj.CoreCompileInputs.cache
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.AssemblyInfoInputs.cache
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.AssemblyInfo.cs
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.dll
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Any CPU\Release\netcoreapp2.0\win10-x64\RedditCringe.pdb

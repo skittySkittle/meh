@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<br />
+<br />
+<br />
+<br />
+
+    @foreach (var postData in Model.RedditPosts.Posts)
+    {
+        <div class="responsive">
+            <div class="gallery">
+                <b>
+                    <div class="desc">@postData.Title</div>
+                </b>
+                <a target="_blank" href="@Url.Content(postData.Url)">
+                    <img src="@Url.Content(postData.Url)" alt="@postData.Title" width="600" height="400">
+                </a>
+
+            </div>
+        </div>
+    }
+
+
+

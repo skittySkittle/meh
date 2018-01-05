@@ -1,0 +1,11 @@
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Debug\netcoreapp2.0\RedditCringe.deps.json
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Debug\netcoreapp2.0\RedditCringe.runtimeconfig.json
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Debug\netcoreapp2.0\RedditCringe.runtimeconfig.dev.json
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Debug\netcoreapp2.0\RedditCringe.dll
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Debug\netcoreapp2.0\RedditCringe.csprojResolveAssemblyReference.cache
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Debug\netcoreapp2.0\RedditCringe.csproj.CoreCompileInputs.cache
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Debug\netcoreapp2.0\RedditCringe.AssemblyInfoInputs.cache
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Debug\netcoreapp2.0\RedditCringe.AssemblyInfo.cs
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\bin\Debug\netcoreapp2.0\RedditCringe.pdb
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Debug\netcoreapp2.0\RedditCringe.dll
+c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Debug\netcoreapp2.0\RedditCringe.pdb
