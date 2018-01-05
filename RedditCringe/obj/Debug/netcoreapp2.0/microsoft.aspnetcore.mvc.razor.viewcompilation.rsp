@@ -1,0 +1,10 @@
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=RedditCringe
+--content-root=C:\Users\da185137\Documents\GitHub\meh\RedditCringe
+--file=C:\Users\da185137\Documents\GitHub\meh\RedditCringe\Pages\About.cshtml
+--file=C:\Users\da185137\Documents\GitHub\meh\RedditCringe\Pages\Index.cshtml
+--file=C:\Users\da185137\Documents\GitHub\meh\RedditCringe\Pages\_Layout.cshtml
+--file=C:\Users\da185137\Documents\GitHub\meh\RedditCringe\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\da185137\Documents\GitHub\meh\RedditCringe\Pages\_ViewImports.cshtml
+--file=C:\Users\da185137\Documents\GitHub\meh\RedditCringe\Pages\_ViewStart.cshtml

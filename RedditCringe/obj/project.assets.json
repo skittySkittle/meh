@@ -18542,15 +18542,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "c:\\users\\da185137\\source\\repos\\RedditCringe\\RedditCringe\\RedditCringe.csproj",
+      "projectUniqueName": "C:\\Users\\da185137\\Documents\\GitHub\\meh\\RedditCringe\\RedditCringe.csproj",
       "projectName": "RedditCringe",
-      "projectPath": "c:\\users\\da185137\\source\\repos\\RedditCringe\\RedditCringe\\RedditCringe.csproj",
+      "projectPath": "C:\\Users\\da185137\\Documents\\GitHub\\meh\\RedditCringe\\RedditCringe.csproj",
       "packagesPath": "C:\\Users\\da185137\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\da185137\\source\\repos\\RedditCringe\\RedditCringe\\obj\\",
+      "outputPath": "C:\\Users\\da185137\\Documents\\GitHub\\meh\\RedditCringe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
