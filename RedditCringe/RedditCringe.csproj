@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <runtimeidentifiers>win10-x64</runtimeidentifiers>
-    <PublishDir>$(OutDir)_PublishedWebsites\NetCoreWebApp\</PublishDir>
+    <PublishDir>$(OutDir)\_PublishedWebsites\NetCoreWebApp\</PublishDir>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.3" />
