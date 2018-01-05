@@ -9,3 +9,14 @@ c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Release\netcoreapp2
 c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.AssemblyInfo.cs
 c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.dll
 c:\users\da185137\source\repos\RedditCringe\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.pdb
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\bin\Release\netcoreapp2.0\RedditCringe.deps.json
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\bin\Release\netcoreapp2.0\RedditCringe.runtimeconfig.json
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\bin\Release\netcoreapp2.0\RedditCringe.runtimeconfig.dev.json
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\bin\Release\netcoreapp2.0\RedditCringe.dll
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\bin\Release\netcoreapp2.0\RedditCringe.pdb
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.csprojResolveAssemblyReference.cache
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.csproj.CoreCompileInputs.cache
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.AssemblyInfoInputs.cache
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.AssemblyInfo.cs
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.dll
+C:\Users\da185137\Documents\GitHub\meh\RedditCringe\obj\Release\netcoreapp2.0\RedditCringe.pdb
